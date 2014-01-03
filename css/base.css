@@ -48,7 +48,7 @@ margin-top: 6px;
 }
 
 .hero {
-    background: url('/images/back.jfif') repeat scroll 0 0 #EB781E;
+    background: url('images/back.jfif') repeat scroll 0 0 #EB781E;
     padding: 20px;
     color: white;
     text-align:center;
@@ -125,7 +125,7 @@ hr {
     border-color:rgba(255, 255, 255, 0.1);
 }
 .clients{
-    background: url(/images/clients.png) no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url(imagesclients.png) no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     height: 175px;
     margin-top: 10px;
     margin-bottom: 15px;
@@ -427,7 +427,7 @@ max-width: 185px;
 -moz-appearance: none;
 -o-appearance: none;
 appearance: none;
-background: url(/images/arrow.gif) no-repeat scroll right -9px;
+background: url(images/arrow.gif) no-repeat scroll right -9px;
 }
 
 .orangesmall {
@@ -736,17 +736,17 @@ color: #989898;
   color:#ef591c !important;
   text-decoration:underline;
 }
-.kbcategorytitle.getting-started { background:url("/images/supportcenter-icon-sprite.png") no-repeat scroll -5px -2px transparent; }
-.kbcategorytitle.domains { background:url("/images/supportcenter-icon-sprite.png") no-repeat scroll -3px -47px transparent; }
-.kbcategorytitle.dns { background:url("/images/supportcenter-icon-sprite.png") no-repeat scroll -3px -91px transparent; }
-.kbcategorytitle.email { background:url("/images/supportcenter-icon-sprite.png") no-repeat scroll -3px -136px transparent; }
-.kbcategorytitle.shared-hosting { background:url("/images/supportcenter-icon-sprite.png") no-repeat scroll -3px -180px transparent; }
-.kbcategorytitle.reseller-hosting { background:url("/images/supportcenter-icon-sprite.png") no-repeat scroll -3px -225px transparent; }
-.kbcategorytitle.vps-hosting { background:url("/images/supportcenter-icon-sprite.png") no-repeat scroll -3px -269px transparent; }
-.kbcategorytitle.diy-website-builder { background:url("/images/supportcenter-icon-sprite.png") no-repeat scroll -3px -314px transparent; }
-.kbcategorytitle.billing { background:url("/images/supportcenter-icon-sprite.png") no-repeat scroll -3px -359px transparent; }
-.kbcategorytitle.my-bigrock-account { background:url("/images/supportcenter-icon-sprite.png") no-repeat scroll -3px -401px transparent; }
-.kbcategorytitle.announcements { background:url("/images/supportcenter-icon-sprite.png") no-repeat scroll -3px -444px transparent; }
+.kbcategorytitle.getting-started { background:url("images/supportcenter-icon-sprite.png") no-repeat scroll -5px -2px transparent; }
+.kbcategorytitle.domains { background:url("images/supportcenter-icon-sprite.png") no-repeat scroll -3px -47px transparent; }
+.kbcategorytitle.dns { background:url("images/supportcenter-icon-sprite.png") no-repeat scroll -3px -91px transparent; }
+.kbcategorytitle.email { background:url("images/supportcenter-icon-sprite.png") no-repeat scroll -3px -136px transparent; }
+.kbcategorytitle.shared-hosting { background:url("images/supportcenter-icon-sprite.png") no-repeat scroll -3px -180px transparent; }
+.kbcategorytitle.reseller-hosting { background:url("images/supportcenter-icon-sprite.png") no-repeat scroll -3px -225px transparent; }
+.kbcategorytitle.vps-hosting { background:url("images/supportcenter-icon-sprite.png") no-repeat scroll -3px -269px transparent; }
+.kbcategorytitle.diy-website-builder { background:url("images/supportcenter-icon-sprite.png") no-repeat scroll -3px -314px transparent; }
+.kbcategorytitle.billing { background:url("images/supportcenter-icon-sprite.png") no-repeat scroll -3px -359px transparent; }
+.kbcategorytitle.my-bigrock-account { background:url("images/supportcenter-icon-sprite.png") no-repeat scroll -3px -401px transparent; }
+.kbcategorytitle.announcements { background:url("images/supportcenter-icon-sprite.png") no-repeat scroll -3px -444px transparent; }
 .kbcategorytitlecontainer { margin:0px 5px 10px 0px; }
 .kbcategorylistwrapper { padding-left:32px; }
 .kbcategorylistwrapper li { color:#797979; }
@@ -946,7 +946,7 @@ width:451px;
 -webkit-appearance:none;
 border-radius:0;
 padding: 30px;
-background:#fff url(/images/lil-spinner.gif) no-repeat left -999em;
+background:#fff url(./images/lil-spinner.gif) no-repeat left -999em;
 }
 
 .loading #domain_input {
@@ -1025,7 +1025,7 @@ width:410px;
 -webkit-appearance:none;
 padding:22px;
 border-radius:0;
-background:#fff url(/images/lil-spinner.gif) no-repeat left -999em;
+background:#fff url(./images/lil-spinner.gif) no-repeat left -999em;
 }
 
 #domain_submit {
@@ -1086,7 +1086,7 @@ width:162px;
 padding: 22px;
 -webkit-appearance:none;
 border-radius:0;
-background:#fff url(/images/lil-spinner.gif) no-repeat left -999em;
+background:#fff url(images/lil-spinner.gif) no-repeat left -999em;
 }
 
 #domain_submit {
