@@ -18,4 +18,4 @@ using technologies like HTML5, CSS, JavaScript, Twitter Bootstrap, Angular JS by
   BigRock owns rights to all virtual properties like design, structure etc. of the submission
 
 
-by Yash Raj Singh(yashsexygo@gmail.com).
+by Ramesh Kumar Goyal(rameshgoyal12@gmail.com).
